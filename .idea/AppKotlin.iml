@@ -27,19 +27,19 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:17.0.2" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:linux:17.0.2" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-graphics:17.0.2" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-graphics:linux:17.0.2" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-base:17.0.2" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-base:linux:17.0.2" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-fxml:17.0.2" level="project" />
-    <orderEntry type="library" name="Maven: org.openjfx:javafx-fxml:linux:17.0.2" level="project" />
-    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.21" level="project" />
-    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.6.21" level="project" />
-    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.21" level="project" />
-    <orderEntry type="library" name="Maven: org.jetbrains:annotations:13.0" level="project" />
-    <orderEntry type="library" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.21" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-test:1.6.21" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.openjfx:javafx-controls:17.0.2" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.openjfx:javafx-controls:linux:17.0.2" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.openjfx:javafx-graphics:17.0.2" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.openjfx:javafx-graphics:linux:17.0.2" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.openjfx:javafx-base:17.0.2" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.openjfx:javafx-base:linux:17.0.2" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.openjfx:javafx-fxml:17.0.2" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.openjfx:javafx-fxml:linux:17.0.2" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.21" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.6.21" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.21" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" exported="" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.21" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Maven: org.jetbrains.kotlin:kotlin-test:1.6.21" level="project" />
   </component>
 </module>
