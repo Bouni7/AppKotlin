@@ -1,0 +1,125 @@
+.vbox{
+    -fx-background-color:  #00142C;
+}
+.checkbox .box{
+    -fx-background-color:  #1968CA;
+
+}
+
+.checkbox {
+    -fx-text-fill: white;
+    -fx-font-family: "JetBrains Mono";
+}
+
+.checkbox:selected .mark{
+    -fx-background-color: white;
+}
+
+
+.table-view .column-header-background .filler {
+    -fx-background-color: transparent;
+
+}
+
+.table-view .corner {
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header-background{
+    -fx-background-color:  #2A3F59;
+    -fx-background-radius: 7px 7px 0px 0px;
+    -fx-padding: 3px 0 5px 0;
+
+}
+
+
+.table-view .column-header{
+    -fx-text-background-color: white;
+    -fx-background-color: transparent;
+    -fx-font-family: "JetBrains Mono";
+    -fx-font-weight: normal;
+
+}
+
+
+.table-view .table-cell{
+    -fx-border-color: transparent;
+    -fx-padding: 2 0 2 10px;
+}
+.table-row-cell:hover {
+    -fx-background-color: #93f9b911;
+    -fx-text-background-color: #1968CA;
+}
+
+.table-row-cell:odd{
+    -fx-background-color: #1e2e42;
+    -fx-background-insets: 0, 0 0 1 0;
+}
+.table-row-cell:even{
+    -fx-background-color: #2A3F59;
+    -fx-background-insets: 0, 0 0 1 0;
+    -fx-opacity: 20;
+
+}
+
+.table-row-cell{
+    -fx-text-background-color: white;
+    -fx-font-family: "JetBrains Mono";
+}
+
+
+.table-view .virtual-flow .scroll-bar:vertical,
+.table-view .virtual-flow .scroll-bar:vertical .track,
+.table-view .virtual-flow .scroll-bar:vertical .track-background,
+.table-view .virtual-flow .scroll-bar:horizontal,
+.table-view .virtual-flow .scroll-bar:horizontal .track,
+.table-view .virtual-flow .scroll-bar:horizontal .track-background {
+    -fx-background-color: transparent;
+}
+
+.table-view .virtual-flow .scroll-bar:vertical .thumb,
+.table-view .virtual-flow .scroll-bar:horizontal .thumb{
+    -fx-background-color: #1968CA;
+}
+
+.table-view .virtual-flow .scroll-bar .increment-button,
+.table-view .virtual-flow .scroll-bar .decrement-button {
+    -fx-opacity: 0;
+    -fx-padding: 2;
+}
+
+.button:hover{
+    -fx-background-color: silver;
+    -fx-text-fill: #1968CA ;
+    -fx-scale-x: 1.01;
+    -fx-scale-y: 1.01;
+    -fx-scale-z: 1.02;
+}
+
+.button{
+    -fx-text-fill: white;
+    -fx-background-color: #1968CA;
+}
+
+
+
+.scrollPane .scroll-bar:horizontal .track-background,
+.scrollPane .scroll-bar:vertical .track-background{
+    -fx-background-color:#1e2e42;
+
+}
+
+.scrollPane .scroll-bar:vertical *.decrement-arrow,
+.scrollPane .scroll-bar:vertical *.increment-arrow,
+.scrollPane .scroll-bar:horizontal *.decrement-arrow,
+.scrollPane .scroll-bar:horizontal *.increment-arrow {
+    -fx-background-color: transparent;
+}
+
+.scrollPane .scroll-bar:vertical .thumb,
+.scrollPane .scroll-bar:horizontal .thumb{
+    -fx-background-color: #1968CA;
+}
+
+
+
